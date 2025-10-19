@@ -1,2 +1,2 @@
-# astEndians
-GC/Wiii ast to SMG1+2 Switch ast tool
+GCN/WiiのastファイルをSwitchのマリギャラ1+2のastに変換するツール
+コンパイル方法はbdlEndiansを参照してください。
